@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true"
+  },
+  "SpeechEndpoint": "https://australiaeast.stt.speech.microsoft.com/speech/recognition/conversation/cognitiveservices/v1",
+  "TokenEndpoint": "https://australiaeast.api.cognitive.microsoft.com/sts/v1.0/issuetoken",
+  "SpeechKey": "b9xxxxxxxxxxxxxxxxxbf",
+  "RequiredConfidence": "0.51",
+  "LUISEndpoint": "https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/e8xxxxxxxxxxxxx53?verbose=true&timezoneOffset=-360&subscription-key=caxxxxxxxxxxxxxxxd&q="
+}
+
