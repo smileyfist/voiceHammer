@@ -1,6 +1,6 @@
 # voice controlled Hammer using AI and raspberry pi for cosplay.
 
-Check out video explaination here: <TODO> (video coming soon, I'm building it now..)
+Check out video explaination here: https://youtu.be/MaN3Dm5tyOw
 
 
 
